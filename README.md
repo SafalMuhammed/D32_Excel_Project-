@@ -9,19 +9,19 @@ Data Description
 Dataset:
 
 The dataset contains information about people's demographic and socio-economic details and their bike buying habits. The main variables are:
-Gender: Male, Female
-Marital Status: Single, Married
-Income Range: Income brackets (e.g.,$10,000 - $50,000 , $50,000 - $100,000 , $100,000 - $200,000 )
-Number of Children: Number of children in the household
-Education: Education level (e.g.High School ,Partial High School,  Bachelors , Partial College,Graduate Degree )
-Occupation: Job category (e.g., Professional, Skilled Manual , Manual , Management , Clerical)
-Number of Cars: Number of cars owned
-Home Ownership: Own or rent
-Commute Distance: Distance to work (e.g., <5 miles, 5-10 miles, >10 miles)
-Region: Geographic region (e.g.,Europe , North America & Pacific )
-Age: Age in years
-Age Group: Age brackets (e.g., Young Adults , Adults , Middle Aged Adults & Senior)
-Number of Bikes Purchased: Total number of bikes bought
+1. Gender: Male, Female
+2. Marital Status: Single, Married
+3. Income Range: Income brackets (e.g.,$10,000 - $50,000 , $50,000 - $100,000 , $100,000 - $200,000 )
+4. Number of Children: Number of children in the household
+5. Education: Education level (e.g.High School ,Partial High School,  Bachelors , Partial College,Graduate Degree )
+6. Occupation: Job category (e.g., Professional, Skilled Manual , Manual , Management , Clerical)
+7. Number of Cars: Number of cars owned
+8. Home Ownership: Own or rent
+9. Commute Distance: Distance to work (e.g., <5 miles, 5-10 miles, >10 miles)
+10. Region: Geographic region (e.g.,Europe , North America & Pacific )
+11. Age: Age in years
+12. Age Group: Age brackets (e.g., Young Adults , Adults , Middle Aged Adults & Senior)
+13. Number of Bikes Purchased: Total number of bikes bought
 
 Methodology
 
